@@ -40,5 +40,4 @@ Welcome to my Github page! I am Heachy and I am currently Learning Polypheny !
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heachy)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
-If you want to know more, please refer to the my [website](https://zhanglina94.github.io).
+<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull picture</sub>
