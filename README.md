@@ -5,7 +5,7 @@
 
 Welcome to my Github page! I am Heachy and I am currently Learning Polypheny !  
 
-<img align="right" alt="img" src="./README.assets/pic.png" width="50%" height="auto" />
+<img align="right" alt="img" src="./README.assets/pic.png" width="47.5%" height="auto" />
 
 
 #### 🌱 Things I am currently working on 🌱 : 
@@ -36,6 +36,9 @@ Welcome to my Github page! I am Heachy and I am currently Learning Polypheny !
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heachy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
 If you want to know more, please refer to the my [website](https://zhanglina94.github.io).
