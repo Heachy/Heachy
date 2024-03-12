@@ -5,7 +5,7 @@
 
 Welcome to my Github page! I am Heachy and I am currently Learning Polypheny !  
 
-<img align="right" alt="img" src="E:/java/git/project/Heachy/README.assets/pic.png" width="50%" height="auto" />
+<img align="right" alt="img" src="./README.assets/pic.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on 🌱 : 
