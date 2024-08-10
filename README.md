@@ -3,7 +3,7 @@
 [![Github](./README.assets/-Github-000.svg)](https://github.com/Heachy)
 [![Gmail](./README.assets/-Gmail-c14438.svg)](haechi147@gmail.com)
 
-Welcome to my Github page! I am Heachy and I am currently Learning Polypheny !  
+Welcome to my Github page! I am Heachy and I am currently Learning PolyphenyDB !  
 
 <img align="right" alt="img" src="./README.assets/pic.png" width="47.5%" height="auto" />
 
@@ -16,10 +16,10 @@ Welcome to my Github page! I am Heachy and I am currently Learning Polypheny !
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Chat GPT
 - GSoC
-- Polypheny
+- PolyphenyDB
 #### 🌻 I am studying 🌻
 - Open Source
-- Polypheny
+- PolyphenyDB
 - WebDAV
 #### :computer: Programming languages and tools :computer: : 
 <p>
