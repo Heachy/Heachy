@@ -10,7 +10,7 @@ Welcome to my Github page! I am Heachy and I am currently Learning PolyphenyDB !
 
 #### 🌱 Things I am currently working on 🌱 : 
 - Attend Google's Open Source Summer
-- [My learn doc](https://heachy.github.io/TestForDocsify/#/) 🚀 *coming soon*
+- [My learn doc](https://heachy.github.io/StudyNotes/#/) 🚀 *coming soon*
 
 
 #### ⚡ Things recent ones I'm interested in ⚡ : 
